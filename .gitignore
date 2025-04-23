@@ -1,0 +1,25 @@
+# Python bytecode/cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.env/
+venv/
+env/
+
+# VSCode/IDE settings
+.vscode/
+
+# Gradio cache
+gradio_cached_examples/
+
+# Model files and weights
+/models/
+*.safetensors
+*.bin
+*.pt
+
+# Logs and checkpoints
+checkpoints/
+*.log
