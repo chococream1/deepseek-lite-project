@@ -6,3 +6,4 @@ no API and registration required, fully offline after downloading model once.
 
 ```bash
 pip install -r requirements.txt
+python deepseek_chat.py
